@@ -1,0 +1,21 @@
+# Node / build
+node_modules/
+dist/
+build/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+npm-debug.log*
+
+# Environment
+.env
+
+# VS Code
+.vscode/
+
+# Python
+venv/
+__pycache__/
